@@ -2,9 +2,13 @@
   "name": "beaviking",
   "version": "0.1.0",
   "private": true,
+  "homepage": "beaviking.000webhostapp.com",
   "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
     "react": "^16.6.0",
+    "react-browser-router": "^2.1.2",
     "react-dom": "^16.6.0",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.0.5"
   },
   "scripts": {
