@@ -6,7 +6,7 @@ You will need to clone the project
 Access the folder and execute: 
  yarn install 
 
-The bellow command gonna install the dependencies
+The above command gonna install the dependencies
 
 Now all you need to do is execute:
   yarn start 
